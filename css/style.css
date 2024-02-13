@@ -225,6 +225,7 @@ footer {
 
 footer img {
     margin: auto;
+    display: block;
 }
 
 
